@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidakh
 - 👀 I’m interested in chip architecture, Apple, and all thing tech.😅
-- 🌱 I’m currently learning chip design, Swift, and Sketch.
+- 🌱 I’m currently learning AI and Python
 - 📫 How to reach me: dakhmedbayev@gmail.com
 - 😄 Pronouns: He/Him
 
